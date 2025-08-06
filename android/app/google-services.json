@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "617908260076",
+    "project_id": "rural-health-access-c9a65",
+    "storage_bucket": "rural-health-access-c9a65.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617908260076:android:57d39d2e49fc7a4197e9c9",
+        "android_client_info": {
+          "package_name": "com.example.health_access"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD83xssGAqj83pBHOttUgKO4IK-XslP8yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617908260076:android:c9b98149caa8718c97e9c9",
+        "android_client_info": {
+          "package_name": "com.example.new_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD83xssGAqj83pBHOttUgKO4IK-XslP8yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -44,15 +44,15 @@ It provides quick health guidance, information on government schemes, upcoming h
    
    git clone https://github.com/KannegantiSravikaChowdary/CSP.git
 
-3. Navigate to the project folder:
+2. Navigate to the project folder:
    
    cd CSP
 
-5. Install dependencies:
+3. Install dependencies:
    
    flutter pub get
 
-7. Run the app:
+4. Run the app:
    
    flutter run
 ```

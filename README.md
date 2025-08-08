@@ -51,11 +51,13 @@ It provides quick health guidance, information on government schemes, upcoming h
   ```
 
 3.Install dependencies:
+
   ```
   flutter pub get
   ```
 
 4. Run the app:
+
   ```
   flutter run
   ```

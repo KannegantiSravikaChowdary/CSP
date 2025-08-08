@@ -41,40 +41,6 @@ It provides quick health guidance, information on government schemes, upcoming h
 ## 📦 Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/KannegantiSravikaChowdary/CSP.git
-   ```
-   
-2. Navigate to the project folder:
-   ```
-   cd CSP
-  ```
-
-3.Install dependencies:
-  ```
-  flutter pub get
-  ```
-
-4. Run the app:
-  ```
-  flutter run
-  ```
-
-## 📦 Installation
-```
-1. Clone the repository
-   git clone https://github.com/KannegantiSravikaChowdary/CSP.git
-
-2. Navigate to the project folder
-   cd CSP
-
-3. Install dependencies
-   flutter pub get
-
-4. Run the app  
-   flutter run
-```
-1. Clone the repository:
    git clone https://github.com/KannegantiSravikaChowdary/CSP.git
 
 2. Navigate to the project folder:

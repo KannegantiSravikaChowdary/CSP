@@ -47,10 +47,11 @@ It provides quick health guidance, information on government schemes, upcoming h
    
 2. Navigate to the project folder:
    ```
-    cd CSP
+   cd CSP
   ```
 
 3.Install dependencies:
+
   ```
     flutter pub get
   ```
